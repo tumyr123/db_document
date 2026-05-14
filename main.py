@@ -13,7 +13,7 @@ import pyautogui as mouse
 
 ring_mp3 = "ring.mp3"
 
-img_bad = "img/1bad.png"
+img_bad = "img/bad.png"
 img_back = "img/back.png"
 #img_back = 'back.png'
 img_btnRegisrer = "img/btnRegisrer.png"
